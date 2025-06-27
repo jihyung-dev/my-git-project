@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             //팀장님이 작업한 곳이에요
             //나도 여기 작업할래 ㅎㅎ
+            //팀원이 작업한 곳이에요
         }
     }
 }
