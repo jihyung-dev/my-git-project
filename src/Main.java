@@ -13,6 +13,8 @@ public class Main {
             //팀장님이 작업한 곳이에요
             //나도 여기 작업할래 ㅎㅎ
             //팀원이 작업한 곳이에요
+
+            System.out.println("기능 외 버그 수정");
         }
     }
 }
