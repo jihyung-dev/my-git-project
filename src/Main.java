@@ -14,6 +14,8 @@ public class Main {
             //나도 여기 작업할래 ㅎㅎ
             //팀원이 작업한 곳이에요
             //25.06.30 팀장 작업부분
+
+            //bugfix _ main에서 안하고 진행했을때 reset -soft 실험
             System.out.println("기능 외 버그 수정");
         }
     }
